@@ -16,10 +16,10 @@ wasted effort and frustration.
 
 The reasons for the wasted effort are varied, and some of them include:
 
-- poor expectation setting leading to low engagement and commitment
-- weak requirements, because no one set expectations for the group
-- results that don’t follow (too-high) expectations
-- and a general lack of transparency
+- *poor expectation setting* leading to low engagement and commitment
+- *weak requirements*, because no one set expectations for the group
+- *results that don’t follow expectations*
+- and a general *lack of transparency*
 
 In short, we could do better.
 
