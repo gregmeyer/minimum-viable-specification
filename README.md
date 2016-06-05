@@ -1,9 +1,8 @@
 ### Creating a Minimum Viable Specification
 
 ![](https://cdn-images-1.medium.com/max/800/1*SnlGS2An3ImFw4XlNMFnKA.jpeg)
-<span class="figcaption_hack">*(courtesy of
 
-*[KEYJ](http://keyj.com/random-things-to-do-in-abilene-when-youre-bored/)*)*</span>
+<span class="figcaption_hack">*(courtesy of * [KEYJ](http://keyj.com/random-things-to-do-in-abilene-when-youre-bored/)*)*</span>
 
 If you’ve never read about the Abilene Paradox, go [read about
 it](https://en.wikipedia.org/wiki/Abilene_paradox). (Or if you have a bit more
@@ -125,7 +124,4 @@ things:
 * If you don’t have a GitHub account and want a Google Docs version, see
 [here](http://bit.ly/minimumviablespec).
 
-<br> 
-
-<br> 
 
