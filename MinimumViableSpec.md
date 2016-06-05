@@ -80,5 +80,7 @@ You should be able to fill out the key points of a Minimum Viable Specification 
 
 **What should I do if I want to get more involved?**
 
-Go to [http://minimumviablespec.com](http://minimumviablespec.com)
+- Go to [http://minimumviablespec.com](http://minimumviablespec.com)
+- Contribute to the spec at https://github.com/gregmeyer/minimum-viable-specification
+
 
