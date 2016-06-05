@@ -14,6 +14,15 @@ the participants wanted. The process of making that decision results in missed
 expectations and projects that are a disappointment. The real output here is
 wasted effort and frustration.
 
+The reasons for the wasted effort are varied, and some of them include:
+
+- poor expectation setting leading to low engagement and commitment
+- weak requirements, because no one set expectations for the group
+- results that don’t follow (too-high) expectations
+- and a general lack of transparency
+
+In short, we could do better.
+
 **We all want to build great products and services** — full stop — and we
 sometimes get there. With the right tools and process, people collaborate
 remotely, locally, synchronously and asynchronously to build software products
