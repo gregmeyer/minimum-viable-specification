@@ -40,6 +40,13 @@ Here is our best-effort description of how we will do this thing as of [today’
 
 * And a few more...
 
+## Open Questions
+
+* What questions have we not asked yet?
+
+* Who or what will make this team stronger or this project more successful?
+
+
 ## Metrics
 
 We will measure our progress with these metrics:
@@ -72,7 +79,7 @@ You should be able to fill out the key points of a Minimum Viable Specification 
 
 **What version of this document am I looking at?**
 
-v1.0, last updated 6/4/2016
+v0.1, last updated 6/5/2016
 
 **Can I find it on Google Docs?**
 
