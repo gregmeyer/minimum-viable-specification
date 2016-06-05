@@ -71,6 +71,7 @@ What you need to do to get to done.
 v1.0, last updated 6/4/2016
 
 **Can I find it on Google Docs?**
+
 Here is a template at http://bit.ly/minimumviablespec
 
 **How long should it take me to fill this out?**
