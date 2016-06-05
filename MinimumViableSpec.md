@@ -83,11 +83,11 @@ v0.1, last updated 6/5/2016
 
 **Can I find it on Google Docs?**
 
-Here is a template at http://bit.ly/minimumviablespec
+[Here is a template](http://bit.ly/minimumviablespec)
 
 **What should I do if I want to get more involved?**
 
 - Go to [http://minimumviablespec.com](http://minimumviablespec.com)
-- Contribute to the spec at https://github.com/gregmeyer/minimum-viable-specification
+- [Contribute to the spec](https://github.com/gregmeyer/minimum-viable-specification) at Github 
 
 
