@@ -66,6 +66,10 @@ A place for us to list all of the great ideas we get that are not immediately re
 
 What you need to do to get to done.
 
+**How long should it take me to fill this out?**
+
+You should be able to fill out the key points of a Minimum Viable Specification in 15 minutes.
+
 **What version of this document am I looking at?**
 
 v1.0, last updated 6/4/2016
@@ -73,10 +77,6 @@ v1.0, last updated 6/4/2016
 **Can I find it on Google Docs?**
 
 Here is a template at http://bit.ly/minimumviablespec
-
-**How long should it take me to fill this out?**
-
-You should be able to fill out the key points of a Minimum Viable Specification in 15 minutes.
 
 **What should I do if I want to get more involved?**
 
