@@ -85,6 +85,10 @@ v0.1, last updated 6/5/2016
 
 [Here is a template](http://bit.ly/minimumviablespec)
 
+**Is this freely shareable?**
+
+Go forth and use it according to [GPL](https://github.com/gregmeyer/minimum-viable-specification/blob/master/LICENSE)
+
 **What should I do if I want to get more involved?**
 
 - Go to [http://minimumviablespec.com](http://minimumviablespec.com)
