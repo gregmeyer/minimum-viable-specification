@@ -16,7 +16,7 @@ want in a group decision, and the result is an outcome no one really wanted. The
 process of making that decision results in missed expectations and projects that
 are a disappointment. 
 
-In many projects and features, it’s hard to make important decisions because two
+When building projects and features, it’s hard to make important decisions because two
 team members (or teams) don’t have clear expectations for the results the team
 will see when the feature is done. Taking a small amount of time to declare
 “this is what we’re building, these are our assumptions, and this is what we’re
