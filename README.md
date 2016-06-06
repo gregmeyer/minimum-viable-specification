@@ -1,6 +1,7 @@
 ###Creating a Minimum Viable Specification
 
 ![](https://cdn-images-1.medium.com/max/800/1*SnlGS2An3ImFw4XlNMFnKA.jpeg)
+
 <span class="figcaption_hack">*(courtesy of
 *[KEYJ](http://keyj.com/random-things-to-do-in-abilene-when-youre-bored/)*)*</span>
 
