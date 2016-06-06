@@ -1,48 +1,35 @@
-### Creating a Minimum Viable Specification
+###Creating a Minimum Viable Specification
 
 ![](https://cdn-images-1.medium.com/max/800/1*SnlGS2An3ImFw4XlNMFnKA.jpeg)
-
-<span class="figcaption_hack">*(courtesy of * [KEYJ](http://keyj.com/random-things-to-do-in-abilene-when-youre-bored/)*)*</span>
+<span class="figcaption_hack">*(courtesy of
+*[KEYJ](http://keyj.com/random-things-to-do-in-abilene-when-youre-bored/)*)*</span>
 
 If you’ve never read about the Abilene Paradox, go [read about
 it](https://en.wikipedia.org/wiki/Abilene_paradox). (Or if you have a bit more
 time, read [the original
 article](http://homepages.se.edu/cvonbergen/files/2013/01/The-Abilene-Paradox_The-Management-of-Agreement.htm_.pdf).)
-The basic idea is that many times groups or organizations make decisions,
-thinking that they are working collaboratively, and deliver an outcome none of
-the participants wanted. The process of making that decision results in missed
-expectations and projects that are a disappointment. The real output here is
-wasted effort and frustration.
 
-The reasons for the wasted effort are varied, and some of them include:
 
-- *poor expectation setting* leading to low engagement and commitment
-- *weak requirements*, because no one set expectations for the group
-- *results that don’t follow expectations*
-- and a general *lack of transparency*
+In the Abilene Paradox, individual participants don’t speak up about what they
+want in a group decision, and the result is an outcome no one really wanted. The
+process of making that decision results in missed expectations and projects that
+are a disappointment. 
 
-In short, we could do better.
+In many projects and features, it’s hard to make important decisions because two
+team members (or teams) don’t have clear expectations for the results the team
+will see when the feature is done. Taking a small amount of time to declare
+“this is what we’re building, these are our assumptions, and this is what we’re
+going to do next” generates positive feelings and goodwill for any project.
 
-**We all want to build great products and services** — full stop — and we
-sometimes get there. With the right tools and process, people collaborate
-remotely, locally, synchronously and asynchronously to build software products
-and services that deliver the almost-magical *product-market fit.* We’ve all
-seen the results of this work, as it usually is the hallmark of the services we
-use every day.
+### “Just Build It And Figure Out How Later”
 
-An anti-pattern often occurs when teams set out to build The Next Big Thing (or
-even the next small thing). People fail to deliver a product, feature, or idea
-because they didn’t build a great specification that helped the team organize
-around a shared understanding to think about, design, and build that thing. Yep,
-specs. Some people reading this may think “I’m out — anything that depends upon
-a spec is already flawed and will never work.” This essay is not for you.
+There are many screamingly obvious things that cause projects to fail, and yet
+people (us included) make the exact same mistakes over and over.
 
-### **The Problem of “Just Build It And Figure Out How Later”**
-
-There are many screamingly obvious things that cause projects or companies to
-fail, and yet people (us included) make the exact same mistakes over and over.
-
-You may know some of them as:
+Once you think you’ve got your arms around an idea, it’s tempting to get going
+immediately. Pausing might be a good choice, too. By building before thinking
+about the results other teams expect from your project, you may end up with
+these outcomes:
 
 * Delivering a project late or way over budget
 * Playing “Whack-a-mole” with bugs on different clients and platforms
@@ -52,7 +39,29 @@ doesn’t do the thing they were going to get
 * Hand wringing and confusion by internal staff who have no idea how to explain
 the new thing and what it does
 
-#### This is not new.
+All of this results in wasted effort, caused by
+
+* *poor expectation setting* leading to low engagement and commitment
+* *weak requirements*, because no one set expectations for the group
+* *results that don’t follow expectations*
+* and a general *lack of transparency*
+
+In short, we could do better.
+
+### **What is the Big Goal?**
+
+**We all want to build great products and services** — full stop — and we
+sometimes get there. With the right tools and process, people collaborate
+remotely, locally, synchronously and asynchronously to build software products
+and services that deliver the almost-magical *product-market fit.* We dream
+about creating The Next Big Thing.
+
+An anti-pattern often occurs when teams set out to build The Next Big Thing (or
+even the next small thing). People fail to deliver a product, feature, or idea
+because they didn’t build a specification to organize the team using a shared
+understanding to think about, design, and build that thing.
+
+### Failing to write a specification is not new.
 
 I’ve talked to friends at other companies about their “black sheep projects”.
 I’ve thought a lot about the projects I’ve managed that could have gone better.
@@ -69,28 +78,25 @@ directly to engineering, to operations, or leadership, you hear similar things:
 And you don’t usually hear about the solutions those teams worked on together to
 deliver a different result.
 
-#### Some Teams Figure It Out.
-
 The best teams trust their individual contributors and their managers to do the
 jobs they are excellent at getting done. The best teams have mechanisms for
 “raising your hand” when unexpected results occur. And the best teams treat
 conflict as an expected outcome and have mechanisms in place for expecting and
 resolving that conflict.
 
-Remember, behavior change is hard. It’s easy to think of the extreme solutions
-(Just Build, or SPEC ALL THE THINGS) and important to propose incremental
-improvements likely to be adopted by the average team member.
-
 ### **Fixing with The Smallest Change Possible**
 
-What if there were a Minimum Viable Specification?
+To help us better reach The Big Goal in any project, what if there were a
+Minimum Viable Specification?
 
 What would be in it? Who would write it? And how would you measure that it was
 any better than the failed processes and decisions we make today?
 
-#### A Suggestion
+This suggestion is not a “one-size-fits-all” solution — it is a proposal for the
+minimum necessary to bring engineering and business teams together to solve
+problems — and projects may need more or less than what’s described here.
 
-**What is a Minimum Viable Specification?**
+#### **What is a Minimum Viable Specification?**
 
 1.  The clearest path to what you need to do to get to done.
 1.  Small enough to declare a single problem and solution in about 15 minutes, but
@@ -114,13 +120,17 @@ This project will be a failure if it creates the very situation it is trying to
 resolve. We’ve all seen what happens with projects that attempt to describe
 every eventuality. They never get done. 
 
-The idea of a Minimum Viable Specification will also not succeed if it’s so
-atomic that you can’t use it for a decent-sized project (at least two developers
-for one sprint).
+How much description do you need? If the idea is very small — the addition of a
+field to an API — you might be able to summarize it in a single sentence. You
+should also be able to use a Minimum Viable Specification for a larger project,
+though this initial idea targets features that typically take 4–20 hours of
+developer time.
 
-What would success look like for a Minimum Viable Specification? When business
-and engineering teams work together to create simple and valuable statements
-that they use to deliver better projects and products, one spec at a time.
+And what would success look like for a Minimum Viable Specification? If people
+use this type of approach to create simple and valuable statements about the
+products they are building, it will be easier for business and engineering teams
+to work together and see whether or not we’re making progress. We iterate on
+this process one spec at a time.
 
 ### How do I get started?
 
@@ -132,5 +142,4 @@ things:
 — suggest changes to the example template, or create your own template
 * If you don’t have a GitHub account and want a Google Docs version, see
 [here](http://bit.ly/minimumviablespec).
-
 
