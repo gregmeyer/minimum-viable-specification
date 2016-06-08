@@ -1,6 +1,8 @@
-###Creating a Minimum Viable Specification
+*****
 
-![](https://cdn-images-1.medium.com/max/800/1*SnlGS2An3ImFw4XlNMFnKA.jpeg)
+### Creating a Minimum Viable Specification
+
+![](https://cdn-images-1.medium.com/max/1600/1*SnlGS2An3ImFw4XlNMFnKA.jpeg)
 
 <span class="figcaption_hack">*(courtesy of
 *[KEYJ](http://keyj.com/random-things-to-do-in-abilene-when-youre-bored/)*)*</span>
@@ -16,11 +18,12 @@ want in a group decision, and the result is an outcome no one really wanted. The
 process of making that decision results in missed expectations and projects that
 are a disappointment. 
 
-When building projects and features, it’s hard to make important decisions because two
-team members (or teams) don’t have clear expectations for the results the team
-will see when the feature is done. Taking a small amount of time to declare
-“this is what we’re building, these are our assumptions, and this is what we’re
-going to do next” generates positive feelings and goodwill for any project.
+When building projects and features, it’s hard to make important decisions
+because two team members (or teams) don’t have clear expectations for the
+results the team will see when the feature is done. Taking a small amount of
+time to declare “this is what we’re building, these are our assumptions, and
+this is what we’re going to do next” generates positive feelings and goodwill
+for any project.
 
 ### “Just Build It And Figure Out How Later”
 
@@ -113,7 +116,28 @@ we think it will be done.
 1.  A place we are able to discuss how things are going.
 1.  A Parking Lot for the ideas we generate that don’t matter right now.
 
-[See an example template](http://bit.ly/minimumviablespec).
+### An Example Template
+
+I’ve been using this example to validate the idea of a Minimum Viable Spec. It’s
+a living document, so the more iterations it completes, the better it will get.
+
+Here are some items I felt were important to add:
+
+* the what — *simply put, what are we building?*
+* the why — *what’s the business reason for doing this thing?*
+* shared understanding — *when we are done, what are the outcomes we expect?*
+* the who and the how — *which resources will do this, and how will they get it
+done?*
+* planning — *when we have an oh sh@$#% moment, what will we do?*
+
+![](https://cdn-images-1.medium.com/max/1600/1*N8LP_dIRRTsYp3YhbET87g.png)
+<span class="figcaption_hack">An example — your mileage may vary</span>
+
+[Get An Example Template Here](http://bit.ly/minimumviablespec).
+
+You can build one of these templates too! *If it’s not confidential and you’d
+like to share*, please add it to the [templates folder for the project on
+Github](https://github.com/gregmeyer/minimum-viable-specification).
 
 ### Enough Description to Fit the Back of a Napkin
 
